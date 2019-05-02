@@ -2,17 +2,19 @@
 layout: page
 title: Videos
 subtitle: Airy's music videos
-youtubeId: ndjmibDEvnY
+video1: ndjmibDEvnY
+video2: xgouPEGuk3Y
+video3: _nWXZrH6fnU
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### 없어지는 길
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.video1 %}
 
+### 낡은 우편함
+
+{% include youtubePlayer.html id=page.video2 %}
+
+### 어젯밤
+
+{% include youtubePlayer.html id=page.video3 %}
