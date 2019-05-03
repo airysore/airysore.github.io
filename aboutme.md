@@ -1,16 +1,52 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: AIRY Seeds
+subtitle: 애리(AIRY)의 비 오는 날 씨앗으로 틔우는 여정
+bigimg: 
+  - "/img/airy_seeds.jpg" 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+애리(AIRY)의 비 오는 날 씨앗으로 틔우는 여정 [Seeds]
+본능적으로 움트고 있던 모든 것들이 담겨 앞으로 어떻게 자라고 뻗어나갈지 모를 씨앗
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+눈 앞에 무언가 흰 것이 어른댄다. 몸이 피곤해 헛것을 보나 눈을 비비고 다시 물체에 초점을 고정해 본다. 보다 선명해진 그것은 이제 너울너울 춤을 추기 시작한다. 자신만의 리듬과 온도에 맞춰 색을 바꾼다. 회색빛이 되었다, 진보랏빛이 되었다, 무지갯빛이 되었다. 선잠 끝 짧게 꾼 백일몽 같은 이 이야기는 싱어송라이터 애리(Airy)의 첫 EP [Seeds]에 실린 음악을 처음 들은 순간 느꼈던 감정들의 편린이다. 다섯 곡이 실린 앨범은 사이키델릭 포크(psychedelic folk), 프릭포크(freak folk)라는 장르의 품 안에서 어쿠스틱 기타 한 대를 씨앗으로, 우기디(기타), 신사론(드럼) 등의 동료들과 함께 만들어 내는 밴드 사운드를 흙으로 삼아 태어난 작고 어둡고 울창한 숲이다. 나이와 시공간 모두 짐작하기 어려운 목소리와 노래가 날아가 닿는 곳마다 새로운 꽃이 피어난다. 그 첫 움직임을 바라보는 것이 여간 즐겁지 않다.
 
-What else do you need?
+/ 김윤하 (대중음악평론가)
 
-### my history
+AIRY의 첫 EP [Seeds]가 발매된다.
+애리(AIRY)는 정식 발매된 음반 없이 통기타 하나로 몇달 만에 신성 싱어송라이터로 주목받으며 홍대 일대의 클럽과 전국 각지, 일본으로 공연을 다녔다. 포크적인 기타 연주 위로 이국적인 민요풍의 멜로디가 얹어져 독특한 사이키델릭 분위기를 만들어낸다는 평가와 함께 국악의 영향을 받은 음악, 미국 6,70년대 포크, 프릭포크(freak folk), 사이키델릭 애시드 포크(psychedelic acid folk) 등으로 불리던 애리의 음악은 몇 해에 걸쳐 구체화되었다. 일렉 기타를 쥐고 꾸준히 그만의 색깔을 찾다가 마침내 몽환적인 원석은 다이나믹한 밴드 사운드의 음악으로 발전했다. 천진하면서도 퇴폐적인 음색과 덤덤하거나 광활한 자연의 온갖 소리가 오가는 매력이 가득한 앨범에서 애리의 색깔이 짙어진 음악이 씨앗으로 나왔다.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+밤과 친숙한 사람들이라면 밤에도 여러 모습이 있다는 걸 안다. [Seeds]는 숱한 밤 중 애리가 겪은 어두운 세상과 자신에 대한 기록으로 시작된다. ‘어젯밤'이 지난 시간을 냉소적이고 위악적으로 다뤘다면, ‘없어지는 길'은 소멸하는 추억을 자양분 삼아 다시 살아나가는 이야기이다. 새로운 계절을 맞이할 때마다 지난 계절의 오감으로 소환된 여정이 다시 살아나고 극화된다. 굉음을 내며 붕괴하고 사라지고 나서야 비로소 연민을 가질 수 있다. ‘낡은 우편함'은 쓸모 없어지고 죽은 것, 사라져 가는 것에 대한 연민이다. 흔적을 남기며 죽은 것, 죽어가는 것에 대한 주목은 자연스럽게 아직 살아남아 자라는 것, 새로운 생명으로 연결된다. ‘에덴'은 애리가 제주 곶자왈 숲에서 얻은 잔인하지만 아름다운 위로이다. 죽음과 생존을 반복하는, 싱그럽다가도 끔찍하기도 한 자신과 모든 존재가 다이나믹하게 변화하는 자연 속 한 부분이라는 사실이 그에게 큰 에너지가 된다.
+
+리처드 링클레이터의 <Waking Life>라는 영화가 있다. 깨어있는 삶은 무엇이며, 인생과 존재, 관계, 사회와 세계,우주와 시공간은 무엇인가, 음악과 수다, 다양한 화풍이 가득한 애니메이션이다. 애리는 그 속에서 씨앗을 만들었다. ‘비 오는 날 씨앗으로 틔우는 여정'은 빗소리와 잡음이 가득한 선잠에서 깨어나고 잠들고를 반복하는 애리의 음률이다.
+EP [Seeds]의 제목은 애리가 음악을 시작하기 전부터 첫 EP를 내기까지 죽고 생존하면서 본능적으로 움트고 있던 모든 것들이 씨앗이 되어 나왔다는 의미를 담는다. 앞으로 어떻게 자라고 뻗어나갈지 모를 씨앗.
+
+-Credits-
+애리(AIRY) EP <Seeds>
+
+Produced by 애리
+
+All Songs Composed by 애리
+All Lyrics Written by 애리
+Track 1,2,3,4 Arranged by 애리(AIRY), 우기디(WoogieD), 신사론
+Track 5 Arranged by 애리(AIRY)
+
+Track 1~4
+Vocal : 애리(AIRY)
+Guitar : 애리(AIRY), 우기디(WoogieD)
+Drum : 신사론
+Bass : 우기디(WoogieD) (Track 2), 이준호 (Track 1,3,4)
+Synth : 애리(AIRY), 우기디(WoogieD) (Track 2)
+
+Recording Engineers
+천학주 @머쉬룸 레코딩 스튜디오(Mushroom Recording Studios) (Track 1~4 : Drums, Guitar)
+인메이 (Track 1~4 : Vocal)
+
+Mixing Engineers
+오형석 @타이탄 레코딩 스튜디오(Titan Recording Studio) (Track 1~4)
+강원우 @상도유니온(Sangdo Union) (Track 5)
+Mixing Adviser (Track 1~4) 키밍(Keyming)
+
+Mastered by 황병준 @사운드미러 코리아(SoundMirror Korea)
+Assistant Mastering Engineer 장영재
+
