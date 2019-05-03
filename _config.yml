@@ -74,7 +74,7 @@ author:
 social-network-links:
   rss: false
   email: "someone@example.com"
-  facebook: daattali
+  facebook: "https://www.facebook.com/airysore"
   github: daattali
   twitter: daattali
 #  reddit: yourname
@@ -96,7 +96,7 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -254,11 +254,6 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-bigimg: 
-  - "/img/forest.jpg" : "comment"
-  - "/img/forest2.jpg" : "comment"
-  - "/img/forest3.jpg" : "comment"
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
