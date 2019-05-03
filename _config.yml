@@ -17,7 +17,7 @@ baseurl: ""
 title: All about Airy
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: AIRY [SEEDS] 분양 🌋💡🌍
 
 # --- Navigation bar options --- #
 
@@ -72,11 +72,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
-  email: "someone@example.com"
-  facebook: airysore  
-  youtube: user/airy
   instagram: airysore
+  facebook: airysore  
+  youtube: user/airy  
+  email: "someone@example.com"
 #  reddit: yourname
 #  snapchat: deanat78
 #  github: daattali
@@ -86,6 +85,7 @@ social-network-links:
 #  twitch: yourname
 #  yelp: yourname
 #  twitter: daattali
+#  rss: false
 
 # Select which share links to show in posts
 share-links-active:
